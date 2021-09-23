@@ -18,3 +18,7 @@ Momentálně web se snaží napodobit základní flow na webových stránkách.
 * atd. atd.
 
 Pull requesty jsou vítány.
+
+## Autor
+
+Autorem je Vojtěch "Cervik" Červený (https://github.com/vojtech-cerveny).
